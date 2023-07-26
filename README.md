@@ -16,6 +16,10 @@ In comparison to other python MAVLink libaries, it has certain advantages:
 pip install libmav
 ```
 
+## Documentation
+
+- [API Reference](docs/build/docs/content/libmav.md)
+
 ## Example usage
 
 ```python
